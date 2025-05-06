@@ -1,0 +1,14 @@
+C:\C++\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\C++\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\C++\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\C++\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\C++\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\C++\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\C++\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\C++\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll
